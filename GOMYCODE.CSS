@@ -1,0 +1,11 @@
+article > p{background-color : red;
+    width:150px;
+    height:40 px;
+}
+
+a:link{
+    color:blue
+}
+a:visited{
+    color:green
+} 
